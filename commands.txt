@@ -1,0 +1,15 @@
+help
+- Shows this message
+
+exit
+- Closes down the server and disconnects everything
+
+say
+- Allows you to speak in chat from the server
+
+clear
+- Clears the chatHistory[]
+
+--Coming Soon--
+serverconfig
+- settings and configuration for the server
